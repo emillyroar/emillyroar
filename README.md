@@ -63,7 +63,7 @@ Sistema simples para controle de estoque — adiciona, remove e lista produtos d
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillyroars&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillyroar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyroar&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
