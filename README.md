@@ -31,16 +31,6 @@ Curiosa por natureza, amo aprender coisas novas, enfrentar bugs com coragem (e m
 </p>
 
 ---
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillyrodrigss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrodrigss&layout=compact&langs_count=10&theme=radical"/>
-</div>
-
----
 ### 📈 Skills extras
 
 - 📊 Power BI / Business Intelligence  
