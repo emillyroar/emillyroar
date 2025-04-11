@@ -1,17 +1,17 @@
 <h1 align="center">👩‍💻 Emilly Rodrigues</h1>
 <p align="center">
-  <em>💻 Desenvolvedora Fullstack apaixonada por cafés e códigos limpos e funcionais ☕✨</em>
+  <em>💻 Desenvolvedora Fullstack apaixonada por cafés, códigos limpos e funcionais ☕✨</em>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Oiii! Eu sou a Emilly — dev fullstack com os dois pés no mundo da tecnologia!  
+Oiê! Eu sou a Emilly — dev fullstack com os dois pés no mundo da tecnologia!  
 Curiosa por natureza, amo aprender coisas novas, enfrentar bugs com coragem (e memes), e criar soluções que realmente fazem a diferença.  
 
-- 🎯 Foco em desenvolvimento de sistemas web e análise de dados
-- 📊 Apaixonada por Business Intelligence e Data Science
+- 🎯 Foco em desenvolvimento de sistemas web e análise de dados  
+- 📊 Apaixonada por Business Intelligence e Data Science  
 - 🌍 Em constante evolução — sempre aprendendo algo novo!
 
 ---
@@ -31,11 +31,41 @@ Curiosa por natureza, amo aprender coisas novas, enfrentar bugs com coragem (e m
 </p>
 
 ---
+
 ### 📈 Skills extras
 
 - 📊 Power BI / Business Intelligence  
 - 📚 Data Science & Análise de Dados  
 - 🤖 Lógica de Programação, APIs, Algoritmos  
+
+---
+
+### 🌟 Projetos em Destaque
+
+📱 [**projetoApp**](https://github.com/emillyrodrigss/projetoApp)  
+Aplicação web feita com foco em interatividade e funcionalidades modernas.  
+**Stack:** JavaScript · HTML · CSS
+
+🎁 [**amigo-secreto**](https://github.com/emillyrodrigss/amigo-secreto)  
+Sorteador de amigo secreto com interface leve e divertida. Ideal pra festas e confraternizações!  
+**Stack:** JavaScript · HTML · CSS
+
+🎮 [**jogo-advinhaNumero**](https://github.com/emillyrodrigss/jogo-advinhaNumero)  
+Jogo clássico de adivinhação de número com lógica de tentativas e dicas interativas.  
+**Stack:** HTML · CSS · JavaScript
+
+📦 [**gerenciamento-estoque**](https://github.com/emillyrodrigss/gerenciamento-estoque)  
+Sistema simples para controle de estoque — adiciona, remove e lista produtos de forma prática.  
+**Stack:** JavaScript · HTML · LocalStorage
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillyrodrigss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrodrigss&layout=compact&langs_count=10&theme=radical"/>
+</div>
 
 ---
 
@@ -56,4 +86,3 @@ Curiosa por natureza, amo aprender coisas novas, enfrentar bugs com coragem (e m
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
-
