@@ -42,19 +42,19 @@ Curiosa por natureza, amo aprender coisas novas, enfrentar bugs com coragem (e m
 
 ### 🌟 Projetos em Destaque
 
-📱 [**projetoApp**](https://github.com/emillyrodrigss/projetoApp)  
+📱 [**projetoApp**](https://github.com/emillyroar/projetoApp)  
 Aplicação web feita com foco em interatividade e funcionalidades modernas.  
 **Stack:** JavaScript · HTML · CSS
 
-🎁 [**amigo-secreto**](https://github.com/emillyrodrigss/amigo-secreto)  
+🎁 [**amigo-secreto**](https://github.com/emillyroar/amigo-secreto)  
 Sorteador de amigo secreto com interface leve e divertida. Ideal pra festas e confraternizações!  
 **Stack:** JavaScript · HTML · CSS
 
-🎮 [**jogo-advinhaNumero**](https://github.com/emillyrodrigss/jogo-advinhaNumero)  
+🎮 [**jogo-advinhaNumero**](https://github.com/emillyroar/jogo-advinhaNumero)  
 Jogo clássico de adivinhação de número com lógica de tentativas e dicas interativas.  
 **Stack:** HTML · CSS · JavaScript
 
-📦 [**gerenciamento-estoque**](https://github.com/emillyrodrigss/gerenciamento-estoque)  
+📦 [**gerenciamento-estoque**](https://github.com/emillyroar/gerenciamento-estoque)  
 Sistema simples para controle de estoque — adiciona, remove e lista produtos de forma prática.  
 **Stack:** JavaScript · HTML · LocalStorage
 
@@ -63,8 +63,8 @@ Sistema simples para controle de estoque — adiciona, remove e lista produtos d
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillyrodrigss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyrodrigss&layout=compact&langs_count=10&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillyroars&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyroar&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ---
