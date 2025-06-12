@@ -7,7 +7,7 @@
 
 ### 🚀 Sobre mim
 
-Oiê! Eu sou a Emilly — dev fullstack com os dois pés no mundo da tecnologia!  
+Oieee! Eu sou a Emilly — dev fullstack com os dois pés no mundo da tecnologia!  
 Curiosa por natureza, amo aprender coisas novas, enfrentar bugs com coragem (e memes), e criar soluções que realmente fazem a diferença.  
 
 - 🎯 Foco em desenvolvimento de sistemas web e análise de dados  
@@ -44,15 +44,15 @@ Curiosa por natureza, amo aprender coisas novas, enfrentar bugs com coragem (e m
 
 📱 [**projetoApp**](https://github.com/emillyroar/projetoApp)  
 Aplicação web feita com foco em interatividade e funcionalidades modernas.  
-**Stack:** JavaScript · HTML · CSS
+**Stacks:** HTML · CSS · JavaScript · React · NodeJS
 
-🎁 [**amigo-secreto**](https://github.com/emillyroar/amigo-secreto)  
-Sorteador de amigo secreto com interface leve e divertida. Ideal pra festas e confraternizações!  
-**Stack:** JavaScript · HTML · CSS
+📱 [**divApp**](https://github.com/emillyroar/divapp)  
+Aplicação web feita com foco em interatividade e funcionalidades modernas.  
+**Stacks:** HTML · CSS · JavaScript · React · NodeJS
 
-🎮 [**jogo-advinhaNumero**](https://github.com/emillyroar/jogo-advinhaNumero)  
-Jogo clássico de adivinhação de número com lógica de tentativas e dicas interativas.  
-**Stack:** HTML · CSS · JavaScript
+🥠 [**fortune-cookie**](https://github.com/emillyroar/fortune-cookie)  
+Aplicativo simples feito com React Native (Expo) onde o usuário “quebra” um biscoito da sorte e recebe uma frase positiva aleatória. As frases estão armazenadas localmente.
+**Stacks:** HTML · CSS · JavaScript · React · NodeJS
 
 📦 [**gerenciamento-estoque**](https://github.com/emillyroar/gerenciamento-estoque)  
 Sistema simples para controle de estoque — adiciona, remove e lista produtos de forma prática.  
